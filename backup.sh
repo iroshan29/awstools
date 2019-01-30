@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# Date: 2019-01-30
+# Version 1.0
+# License Type: GNU GENERAL PUBLIC LICENSE, Version 3
+# Author:
+# Iroshan Kumarasinghe / https://github.com/iroshan29 / iroshan29@gmail.com
+
 # generate a timestamp
 DATE=$(date +%Y-%m-%d)
 
